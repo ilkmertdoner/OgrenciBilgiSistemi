@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="add-reads" value="OgrenciBilgiSistemi=java.rmi:OgrenciBilgiSistemi=jdk.management.jfr:OgrenciBilgiSistemi=jdk.jdi:OgrenciBilgiSistemi=jdk.charsets:OgrenciBilgiSistemi=java.xml:OgrenciBilgiSistemi=jdk.xml.dom:OgrenciBilgiSistemi=java.datatransfer:OgrenciBilgiSistemi=jdk.jstatd:OgrenciBilgiSistemi=jdk.httpserver:OgrenciBilgiSistemi=jdk.jcmd:OgrenciBilgiSistemi=java.se:OgrenciBilgiSistemi=jdk.graal.compiler.management:OgrenciBilgiSistemi=java.security.sasl:OgrenciBilgiSistemi=jdk.zipfs:OgrenciBilgiSistemi=jdk.crypto.ec:OgrenciBilgiSistemi=jdk.javadoc:OgrenciBilgiSistemi=jdk.management.agent:OgrenciBilgiSistemi=jdk.jshell:OgrenciBilgiSistemi=jdk.editpad:OgrenciBilgiSistemi=java.sql.rowset:OgrenciBilgiSistemi=jdk.jsobject:OgrenciBilgiSistemi=jdk.sctp:OgrenciBilgiSistemi=java.smartcardio:OgrenciBilgiSistemi=jdk.unsupported:OgrenciBilgiSistemi=java.security.jgss:OgrenciBilgiSistemi=java.compiler:OgrenciBilgiSistemi=jdk.nio.mapmode:OgrenciBilgiSistemi=jdk.graal.compiler:OgrenciBilgiSistemi=jdk.dynalink:OgrenciBilgiSistemi=jdk.unsupported.desktop:OgrenciBilgiSistemi=jdk.accessibility:OgrenciBilgiSistemi=jdk.security.jgss:OgrenciBilgiSistemi=jdk.hotspot.agent:OgrenciBilgiSistemi=java.logging:OgrenciBilgiSistemi=java.transaction.xa:OgrenciBilgiSistemi=java.xml.crypto:OgrenciBilgiSistemi=jdk.jfr:OgrenciBilgiSistemi=jdk.internal.vm.ci:OgrenciBilgiSistemi=jdk.internal.md:OgrenciBilgiSistemi=jdk.crypto.cryptoki:OgrenciBilgiSistemi=jdk.net:OgrenciBilgiSistemi=java.naming:OgrenciBilgiSistemi=jdk.internal.ed:OgrenciBilgiSistemi=java.prefs:OgrenciBilgiSistemi=java.net.http:OgrenciBilgiSistemi=jdk.compiler:OgrenciBilgiSistemi=jdk.internal.opt:OgrenciBilgiSistemi=jdk.naming.rmi:OgrenciBilgiSistemi=jdk.jconsole:OgrenciBilgiSistemi=jdk.attach:OgrenciBilgiSistemi=jdk.crypto.mscapi:OgrenciBilgiSistemi=jdk.internal.le:OgrenciBilgiSistemi=java.management:OgrenciBilgiSistemi=jdk.jdwp.agent:OgrenciBilgiSistemi=jdk.internal.jvmstat:OgrenciBilgiSistemi=java.instrument:OgrenciBilgiSistemi=jdk.management:OgrenciBilgiSistemi=jdk.security.auth:OgrenciBilgiSistemi=java.scripting:OgrenciBilgiSistemi=jdk.jdeps:OgrenciBilgiSistemi=jdk.jartool:OgrenciBilgiSistemi=java.management.rmi:OgrenciBilgiSistemi=jdk.naming.dns:OgrenciBilgiSistemi=jdk.localedata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ilkme/OneDrive/Masaüstü/postgresql-42.7.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
