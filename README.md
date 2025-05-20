@@ -106,7 +106,7 @@ Projede toplamda 16 adet Java sınıfı bulunmakta ve bunlar farklı paketlerde 
     • Öğrencilerin kişisel bilgileri, ders kayıtları ve notları takip edilebilir.
     • Öğretmenler öğrenci notlarını girebilir, güncelleyebilir ve raporlayabilir.
     • Kullanıcı dostu grafik arayüz ile etkileşimli ve kolay kullanım sağlanabilir.
-# Hazırlayanlar
-    • İlkmert Döner
+# Hazırlayanlar - (Grup 11)
+    • İlkmert Döner (Grup Lideri)
     • Emirhan Tunca
     • Enes Bekdemir
